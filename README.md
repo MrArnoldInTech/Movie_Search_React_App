@@ -1,3 +1,24 @@
+# React App that searches for movies. 
+
+This is a simple app that uses an API from https://www.omdbapi.com/
+
+- We generate our own API key that will give us a list of movies that we can use in this basic app.
+- When a movie gets searched it might not always be able to find a picture for that movie, so sometimes it would just use a stock image to fill the space. 
+
+
+Example of App in the Screenshot below:
+![image](https://github.com/MrArnoldInTech/Movie_Search_React_App/assets/72899208/cfb30bce-d12a-4d32-a837-d0cf31d3e0fa)
+
+- When hovering over a selected movie it will tell us the year of that movie.
+Of course, with this, we can include a lot more or even have the option to go into more detail when a movie is selected. However, the purpose of this app is to understand React and to make use of the API movie search.
+
+![image](https://github.com/MrArnoldInTech/Movie_Search_React_App/assets/72899208/066ae1d1-0120-4cb5-a2dd-e860ebb62c4f)
+
+- Of course, if you put rubbish into the search bar this is the response that you will get.
+
+![image](https://github.com/MrArnoldInTech/Movie_Search_React_App/assets/72899208/ffc2483d-9a72-4ace-b27e-a6b5bc66c3ec)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
